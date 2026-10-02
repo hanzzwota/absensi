@@ -1,0 +1,6 @@
+{
+  "name": "EduAttend",
+  "description": "Student Attendance Management App with Real-Time Parent Notifications via WhatsApp and Push Notifications",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
